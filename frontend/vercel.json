@@ -15,6 +15,6 @@
     { "src": "/(.*)", "dest": "/index.html" }
   ],
   "env": {
-    "REACT_APP_API_URL": "@loanbook_api_url"
+    "REACT_APP_API_URL": "https://loanbook-api.onrender.com/api"
   }
 }
